@@ -13,7 +13,6 @@ body{
     background-attachment: scroll;
     background-size: cover;
 }
-
 nav{
     height: 50px;
     width: 100%;
@@ -58,7 +57,6 @@ nav ul li a:hover, a.active{
 .booking-form h3{
     margin: 10px 0px;
 }
-
 .booking-form  .calculations{
     margin: 10px 0;
 }
@@ -92,7 +90,6 @@ nav ul li a:hover, a.active{
     font-weight: 400;
     margin-bottom: 25px;
 }
-
 .btn-style{
     display: block;
     width: 100%;
